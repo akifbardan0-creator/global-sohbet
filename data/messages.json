@@ -42,9 +42,13 @@
       "username": "tester1",
       "text": "hello TEST_edbb0c",
       "has_image": false,
-      "reactions": {},
+      "reactions": {
+        "❤️": [
+          "c6f8c18a-44d2-40a0-a330-8bfb3d84f8cf"
+        ]
+      },
       "created_at": "2026-07-25T17:50:51.148092+00:00"
     }
   ],
-  "updated_at": "2026-07-25T17:50:51.149569+00:00"
+  "updated_at": "2026-07-25T17:50:54.910395+00:00"
 }
