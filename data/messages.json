@@ -8,7 +8,16 @@
       "has_image": false,
       "reactions": {},
       "created_at": "2026-07-25T17:48:18.481574+00:00"
+    },
+    {
+      "id": "7174b52f-e3a2-4499-8870-b80cf0218bfd",
+      "user_id": "c6f8c18a-44d2-40a0-a330-8bfb3d84f8cf",
+      "username": "tester1",
+      "text": "TEST_msg_237d79",
+      "has_image": false,
+      "reactions": {},
+      "created_at": "2026-07-25T17:50:19.295964+00:00"
     }
   ],
-  "updated_at": "2026-07-25T17:48:18.482983+00:00"
+  "updated_at": "2026-07-25T17:50:19.297150+00:00"
 }
